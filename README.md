@@ -74,3 +74,4 @@ IMPROVED PROMPT- "Teach me how to cook instant noodles"
 
 Unlike the vague prompt which is quite ambiguous given the fact that there are numerous ways of cooking endless meals aroud the world, the improved prompt is more concise and easier for the AI model to run with.
 
+PLP Academy
